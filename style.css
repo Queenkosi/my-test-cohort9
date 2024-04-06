@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    transition: background-color 0.5s ease;
+}
+#colorHistory{
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
